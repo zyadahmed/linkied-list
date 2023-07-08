@@ -1,0 +1,7 @@
+# ninja log v5
+217	262	1688051443159263900	LinkiedlistImp	b310432c930ee09c
+0	217	1688051443114544400	CMakeFiles/LinkiedlistImp.dir/main.cpp.o	8145c4d4230d9edd
+0	21	1688308075835815500	build.ninja	2187061a0f624b8b
+1	195	1688050741564805300	CMakeFiles/LinkiedlistImp.dir/Linkiedlist.cpp.o	a9ab4d3bafad53ad
+23	447	1688824199770173400	CMakeFiles/LinkiedlistImp.dir/main.cpp.o	8145c4d4230d9edd
+448	654	1688824199988300400	LinkiedlistImp	b310432c930ee09c
